@@ -2,4 +2,6 @@
 
 i don't know
 
-![Primer captura](images/hola.png"Primer captura")
+![Primer captura](hola.png"Primer captura")
+
+![segunda captura](hola.png"segunda captura")
